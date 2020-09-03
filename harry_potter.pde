@@ -9,8 +9,7 @@ String URLh = "https://www.potterapi.com/v1/houses?key=";
 
 JSONArray json, characters, houses;
 
-String role, house, blood;//, bloodStatus, species;
-// String name, patronus, species, bloodStatus, role, school, alias, wand, boggart, animagus;
+String role, house, blood;
 boolean deathEater, dumbledoresArmy, orderOfThePhoenix, ministryOfMagic;
 
 int memberGryff, memberSlyth, memberHuff, memberRaven, level;
